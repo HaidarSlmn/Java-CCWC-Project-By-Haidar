@@ -14,7 +14,8 @@ This project was made for studying course about java.
 4. run it on terminal
    
 # RESULTS
-![image]([https://github.com/pondadims/javacourse/assets/156737323/e309b4ba-6e9a-41a7-9b39-95af7fc56fb7](https://github.com/HaidarSlmn/Java-CCWC-Project-By-Haidar/blob/main/Screenshot%202024-05-06%20at%2007.01.09.png?raw=true))
+![Result]([image_url](https://raw.githubusercontent.com/HaidarSlmn/Java-CCWC-Project-By-Haidar/main/Result.png))
+
 
    
 # CREDITS
