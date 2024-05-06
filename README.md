@@ -14,7 +14,7 @@ This project was made for studying course about java.
 4. run it on terminal
    
 # RESULTS
-![Result]([image_url](https://raw.githubusercontent.com/HaidarSlmn/Java-CCWC-Project-By-Haidar/main/Result.png))
+![Result](https://github.com/HaidarSlmn/Java-CCWC-Project-By-Haidar/blob/main/Result.png)
 
 
    
